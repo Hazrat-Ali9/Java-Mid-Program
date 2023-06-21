@@ -16,3 +16,5 @@ class Demo
 			}
 	}
 }
+
+// Prime Number ------> 9 

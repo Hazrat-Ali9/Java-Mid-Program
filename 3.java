@@ -18,3 +18,5 @@ class Demo
 				else {System.out.println("NO");}
 	}
 }
+
+// String Palindrome Or Not ------3

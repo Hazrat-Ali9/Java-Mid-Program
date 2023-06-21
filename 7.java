@@ -9,3 +9,6 @@ class Demo
 		System.out.println(PI*r*r);
 	}
 }
+
+
+// Area Of Circle ------> 8 

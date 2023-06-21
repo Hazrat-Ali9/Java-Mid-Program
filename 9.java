@@ -17,3 +17,5 @@ class Demo
 			}
 	}
 }
+
+// Pyramid Pattern -----10

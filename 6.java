@@ -11,3 +11,5 @@ class Demo
 		else System.out.println("NO");
 	}
 }
+
+// Reverse String -----> 6 
